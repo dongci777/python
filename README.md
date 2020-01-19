@@ -8,4 +8,4 @@ jupyter notebook
 python 3.7
 
 # 目录
-![目录](https://raw.github.com/dongci777/repositpry/master/python_developing_doc/img-folder/content.jpg)
+![目录](https://github.com/dongci777/python_developing_doc/master/img-folder/content.jpg)

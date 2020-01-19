@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-01-19 11:40:21
- * @LastEditTime : 2020-01-19 12:45:50
+ * @LastEditTime : 2020-01-19 12:57:55
  * @LastEditors  : Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \Desktopd:\ownGitProject\python_developing_doc\README.md
@@ -14,3 +14,5 @@ jupyter notebook
 
 # python 版本
 python 3.7  
+
+1234

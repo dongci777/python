@@ -13,7 +13,4 @@ python 学习笔记
 jupyter notebook
 
 # python 版本
-python 3.7
-
-# 目录 
-![目录](https://github.com/dongci777/python_developing_doc/blob/master/img-folder/content.png) 
+python 3.7 
